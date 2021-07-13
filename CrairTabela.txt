@@ -1,0 +1,17 @@
+CREATE TABLE [dbo].[LogAplicacao](
+	[IdCentralLog] [bigint] IDENTITY(1,1) NOT NULL,
+	[IdAplicacao] [int] NULL,
+	[Aplicacao] [varchar](200) NULL,
+	[SessaoUsuarioId] [int] NULL,
+	[Message] [nvarchar](max) NULL,
+	[StackTrace] [nvarchar](max) NULL,
+	[IODetails] [nvarchar](max) NULL,
+	[Type] [varchar](20) NULL,
+	[Metodo] [nvarchar](50) NULL,
+	[DataCriacao] [datetime] NOT NULL,
+	[ClienteIP] [nvarchar](200) NULL,
+	[ClienteUserAgent] [nvarchar](200) NULL,
+	[ClienteHostName] [nvarchar](200) NULL,
+	[LogControlVersion] [varchar](200) NULL,
+	[Ativo] [int] NULL,
+	[Descricao] [nvarchar](max) NULL

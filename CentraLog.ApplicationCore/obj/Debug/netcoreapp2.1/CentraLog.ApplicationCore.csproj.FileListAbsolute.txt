@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\bin\Debug\netcoreapp2.1\CentraLog.ApplicationCore.deps.json
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\bin\Debug\netcoreapp2.1\CentraLog.ApplicationCore.runtimeconfig.json
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\bin\Debug\netcoreapp2.1\CentraLog.ApplicationCore.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\bin\Debug\netcoreapp2.1\CentraLog.ApplicationCore.dll
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\bin\Debug\netcoreapp2.1\CentraLog.ApplicationCore.pdb
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\obj\Debug\netcoreapp2.1\CentraLog.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\obj\Debug\netcoreapp2.1\CentraLog.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\obj\Debug\netcoreapp2.1\CentraLog.ApplicationCore.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\obj\Debug\netcoreapp2.1\CentraLog.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\obj\Debug\netcoreapp2.1\CentraLog.ApplicationCore.dll
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\obj\Debug\netcoreapp2.1\CentraLog.ApplicationCore.pdb
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\obj\Debug\netcoreapp2.1\CentraLog.ApplicationCore.genruntimeconfig.cache

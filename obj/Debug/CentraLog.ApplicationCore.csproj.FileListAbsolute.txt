@@ -1,0 +1,6 @@
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\bin\Debug\CentraLog.ApplicationCore.dll
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\bin\Debug\CentraLog.ApplicationCore.pdb
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\obj\Debug\CentraLog.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\obj\Debug\CentraLog.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\obj\Debug\CentraLog.ApplicationCore.dll
+C:\Users\Acer\Desktop\Central.Log\CentraLog.ApplicationCore\obj\Debug\CentraLog.ApplicationCore.pdb
